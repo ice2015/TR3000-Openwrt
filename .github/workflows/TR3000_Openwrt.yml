@@ -8,7 +8,7 @@ env:
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
-  CONFIG_SH: tr3000A1.config
+  CONFIG_SH: tr3000A1.sh
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
   
